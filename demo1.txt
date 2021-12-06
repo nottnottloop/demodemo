@@ -1,5 +1,1 @@
-stagedxx
-orast
-
-
-bad commit
+staged

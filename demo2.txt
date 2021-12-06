@@ -1,1 +1,1 @@
-not stage
+not staged

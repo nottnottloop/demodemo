@@ -1,1 +1,5 @@
 stagedxx
+orast
+
+
+bad commit
